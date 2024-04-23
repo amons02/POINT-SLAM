@@ -1,6 +1,9 @@
 # POINT-SLAM: A Fusion of ORB-SLAM3 and SuperPoint
 
-POINT-SLAM is a fusion of ORB-SLAM3 with SuperPoint feature detection. SuperPoint feature detection was made as a neural network based method to detect keypoints on images. We integrated this with ORB-SLAM3 in order to investigaete if SuperPoint's keypoints would make the entire ORB-SLAM3 system more robust. 
+POINT-SLAM is a fusion of ORB-SLAM3 with SuperPoint feature detection. SuperPoint feature detection was made as a neural network based method to detect keypoints on images. We integrated this with ORB-SLAM3 in order to investigate if SuperPoint's keypoints would make the entire ORB-SLAM3 system more robust.
+
+Euroc MH05 Results:
+![alt text](https://github.com/amons02/POINT-SLAM/edit/main/MH05_GT_Comparison.png?raw=true)
 
 ## Building:
 
